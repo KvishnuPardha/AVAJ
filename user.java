@@ -15,7 +15,7 @@ class user {
      * @param b
      * @return difference of a and b
      */
-    public int sub(int a, int b) {
+    public static int sub(int a, int b) {
         return a - b;
     }
     public static void main(String[] args) {
