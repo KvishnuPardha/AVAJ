@@ -1,0 +1,44 @@
+[33mcommit 907f610e94deab8ab8fa18b4f389a84b65c6df9f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msolbranch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cba75be 3d08307
+Author: vishnukandimalla <vishnupardhak@gmail.com>
+Date:   Thu Dec 26 22:16:54 2024 -0600
+
+    Merge pull request #2 from KvishnuPardha/1-error-in-sub-method
+    
+     Error bug-sub static is resolved in 1-err-sub-met
+
+[33mcommit 3d08307a877e6fa6bf27560ec3edb1992ef52981[m[33m ([m[1;31morigin/1-error-in-sub-method[m[33m, [m[1;32m1-error-in-sub-method[m[33m)[m
+Author: vishnu1040 <kvp1040@gmail.com>
+Date:   Thu Dec 26 22:13:51 2024 -0600
+
+     Error bug-sub static is resolved in 1-err-sub-met
+
+[33mcommit cba75be069ac494a5e38a9b92a64e2da1d4205da[m
+Author: vishnu1040 <kvp1040@gmail.com>
+Date:   Thu Dec 26 22:09:47 2024 -0600
+
+     Error bug-sub static is resolved in solbranch
+
+[33mcommit cf2b4e6d07dc7bd4c501c64858c92e5b408abd24[m
+Author: Kvishnupardha <vkandimalla2s@semo.edu>
+Date:   Thu Dec 26 21:55:37 2024 -0600
+
+     New Bug-sub feature added
+
+[33mcommit 20c9cd0cd8b4d6c0acdb118e4b040b9eb6ef4cb2[m[33m ([m[1;32mmain[m[33m)[m
+Author: vishnu1040 <kvp1040@gmail.com>
+Date:   Thu Dec 26 21:42:38 2024 -0600
+
+    Added method sum to user.java
+
+[33mcommit 7c697fa1909307709e4604e0af22e6ebc72c70fe[m
+Author: Kvishnupardha <vkandimalla2s@semo.edu>
+Date:   Thu Dec 26 21:29:41 2024 -0600
+
+    Initial file user and gitignore with *.class is added
+
+[33mcommit 1283a8d1b95205f6ba0e7f2a39567cce65eb32c9[m
+Author: vishnukandimalla <vkandimalla2s@semo.edu>
+Date:   Thu Dec 26 21:07:00 2024 -0600
+
+    Initial commit
