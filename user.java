@@ -18,15 +18,6 @@ class user {
     public static int sub(int a, int b) {
         return a - b;
     }
-    /**
-     * This method reverts
-     * @param a
-     * @param b
-     * @return product of a and b
-     */
-    public revert() {
-        System.out.println("Revert");
-    }
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Addition of 2 and 3 is: " + add(2, 3));
