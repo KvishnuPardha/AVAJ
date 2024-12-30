@@ -3,7 +3,7 @@
  */
 class Grandparent {
     int id = 1;
-    String colour = "white";
+    MyString colour = "white";
 }
 
 class Parent extends Grandparent {
@@ -21,7 +21,7 @@ class You extends Parent {
 }
 
 public class inhert extends You {
-    public static void main(String[] args) {
+    public static void main(MyString[] args) {
         You obj = new You();
         System.out.println(obj.id);
         obj.display();

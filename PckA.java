@@ -8,7 +8,7 @@ public class PckA {
         obj.setAge(5);
         System.out.println(obj.getAge());
         obj.setName("Vishnu");
-        System.out.println(obj.getName());
+        System.out.println(obj.getName());wq
 
     }
     

@@ -8,7 +8,7 @@ public class Construct {
         String name = "default";
     }
 
-    public Construct(int id, String name) {
+    public Construct(int id,String name) {
         this.id = id;
         this.name = name;
     }

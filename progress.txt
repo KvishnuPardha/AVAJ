@@ -2,6 +2,7 @@ Java oops
 Object 
 Class
 Subclass 
+nested classes
 This keyword
 Constructer-default-parametrized
 Method overloading 
@@ -19,3 +20,13 @@ abstract
 interface
 
 packages
+Wraper 
+
+Strings amd String operations
+
+
+exception handeling
+try , catch
+throw ,throws , finally
+
+multithreading **needs to look up
