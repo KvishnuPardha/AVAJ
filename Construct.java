@@ -13,7 +13,6 @@ public class Construct {
         this.name = name;
     }
 
-
     public static void main(String[] args) {
         Construct obj = new Construct();
         System.out.println(obj.id + " " + obj.name);

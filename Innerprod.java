@@ -1,12 +1,8 @@
 
 class prod {
-int id =1;
-    
+    int id = 1;
+
 }
-
-
-
-
 
 public class Innerprod {
     public static void main(String[] args) {

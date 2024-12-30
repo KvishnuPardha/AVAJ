@@ -11,3 +11,11 @@ Constructer overriding
 Inheritence 
 
 **Covariant Return Type needs Look up 
+
+polymorphism , compile time poly , runtime poly
+Static binding , dinamic binding
+
+abstract 
+interface
+
+packages
